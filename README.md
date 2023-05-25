@@ -5,7 +5,7 @@ This repository contains the notebooks and code for the 2023 Data Science Challe
 - Link : https://data-science.llnl.gov/dsc
 - Authors : 
     - Mikel Landajuela (landajuelala1@llnl.gov)
-    - Cyndy Gonzales (gonzales72@llnl.gov)
+    - Cindy Gonzales (gonzales72@llnl.gov)
 
 
 ## Description
