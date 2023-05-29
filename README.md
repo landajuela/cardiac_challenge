@@ -15,6 +15,16 @@ The electrocardiogram (ECG) provides a non-invasive and cost-effective tool for 
     <img src="figures/rotating_hearts.gif" width=800/>
 </p>
 
+## Contents
+- [tutorials](./tutorials/)
+    - [tutorials/image_classifier_tutorial_v1.2](./tutorials/image_classifier_tutorial_v1.2.ipynb) : Tutorial on image classification
+    - [tutorials/DSC_regression-tutorial](./tutorials/DSC_regression-tutorial.ipynb) : Tutorial on regression
+- [notebooks](./notebooks/)
+    - [task_1_getting_started.ipynb](./notebooks/task_1_getting_started.ipynb) : Task 1 notebook
+    - [task_2_getting_started.ipynb](./notebooks/task_2_getting_started.ipynb) : Task 2 notebook
+    - [task_3_getting_started.ipynb](./notebooks/task_3_getting_started.ipynb) : Task 3 notebook
+    - [task_4_getting_started.ipynb](./notebooks/task_4_getting_started.ipynb) : Task 4 notebook
+
 ## Roadmap
 - If you are unfamiliar with the field of machine learning, have a look at the [tutorials](./tutorials/) folder, which contains a set of notebooks to get you started with machine learning.
 - The challenge is divided into 4 tasks, each of which is described in detail in the corresponding notebook.
