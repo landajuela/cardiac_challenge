@@ -110,7 +110,6 @@ For further details, navigate to the `intracardiac_dataset` folder and read the 
      Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals. \
      In Lawrence Livermore National Laboratory (LLNL) Open Data Initiative. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0SN094N</em>
 
-- (Task 3 & 4) Blog post : https://landajuela.github.io/cardiac_ml/
 - (Task 3 & 4) Medium Blog post : https://medium.com/p/a20661669937
 
 
