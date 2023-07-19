@@ -103,7 +103,7 @@ The mesh is in the `.vtk` format and the recording locations are in the `.csv` f
 You can visualize the mesh and the recording locations using [ParaView](https://www.paraview.org/).
 Note that the recording locations are in the same coordinate system as the mesh.
 Also, the indices of the recorded transmembrane potentials correspond to the indices of the recording locations.
-One way to interpolate the predicted values at the recording locations to the whole cardiac mesh is to use the `ShepardKernel` filter in ParaView.
+One way to interpolate the predicted values at the recording locations to the whole cardiac mesh is to use the `ShepardKernel` filter in `ParaView`.
 
 <p align="center">
     <img src="figures/state.png" width=500/>
