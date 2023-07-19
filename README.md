@@ -6,6 +6,7 @@ This repository contains the notebooks and code for the 2023 Data Science Challe
 - Authors : 
     - Mikel Landajuela (landajuelala1@llnl.gov)
     - Cindy Gonzales (gonzales72@llnl.gov)
+- Blog Post : https://medium.com/p/a20661669937
 
 
 ## Description
@@ -91,6 +92,23 @@ For further details, navigate to the `intracardiac_dataset` folder and read the 
 - Mathematica Notebook: Inspect the data using `notebooks/dataset_inspect.nb`
 - The license documents can be found in `license`
 </details>
+
+### Visualization
+
+<details>
+<summary>Mesh files and recording locations</summary>
+
+We provide a typical heart mesh and the corresponding recording locations in the `geometry` folder. 
+The mesh is in the `.vtk` format and the recording locations are in the `.csv` format.
+You can visualize the mesh and the recording locations using [ParaView](https://www.paraview.org/).
+Note that the recording locations are in the same coordinate system as the mesh.
+Also, the indices of the recorded transmembrane potentials correspond to the indices of the recording locations.
+
+<p align="center">
+    <img src="figures/state.png" width=500/>
+</p>
+</details>
+
 
 ### Additional Resources
 - (Task 1) Paper : https://arxiv.org/pdf/1805.00794.pdf
