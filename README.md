@@ -108,7 +108,7 @@ One way to interpolate the predicted values at the recording locations to the wh
 
 ### Additional Resources
 
-- Cardiac ML Code Repository:
+- Cardiac ML Code Repository
     - Link : https://github.com/landajuela/cardiac_ml
 
 - Data Science Challenge 2023
