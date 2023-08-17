@@ -1,13 +1,8 @@
-# Data Science Challenge 2023 - Cardiac Electrophysiology
+# Machine Learning for Cardiac Electrophysiology 
 
-This repository contains the notebooks and code for the 2023 Data Science Challenge (DSC) at Lawrence Livermore National Laboratory (LLNL).
+Code repository for machine learning for cardiac electrophysiology.
 
-- Link : https://data-science.llnl.gov/dsc
-- Authors : 
-    - Mikel Landajuela (landajuelala1@llnl.gov)
-    - Cindy Gonzales (gonzales72@llnl.gov)
 - Blog Post : https://medium.com/p/a20661669937
-
 
 ## Description
 The electrocardiogram (ECG) provides a non-invasive and cost-effective tool for the diagnosis of heart conditions. However, the standard 12-lead ECG is inadequate for mapping out the electrical activity of the heart in sufficient detail for many clinical applications (e.g., identifying the origins of an arrhythmia). In order to construct a more detailed map of the heart, current techniques require not only ECG readings from dozens of locations on a patient’s body, but also patient-specific anatomical models built from expensive medical imaging procedures. For this Data Science Challenge problem, we consider an alternative data-driven approach to reconstructing electroanatomical maps of the heart at clinically relevant resolutions, which combines input from the standard 12-lead electrocardiogram (ECG) with advanced machine learning techniques. We begin with the clearly-defined task of identifying heart conditions from ECG profiles and then consider a range of more open-ended challenges, including the reconstruction of a complete spatio-temporal activation map of the human heart.
@@ -112,6 +107,14 @@ One way to interpolate the predicted values at the recording locations to the wh
 
 
 ### Additional Resources
+
+- Cardiac ML Code Repository:
+    - Link : https://github.com/landajuela/cardiac_ml
+
+- Data Science Challenge 2023
+    - Link : https://data-science.llnl.gov/dsc
+    - Lead Mentor : Mikel Landajuela (landajuelala1@llnl.gov)
+
 - (Task 1) Paper : https://arxiv.org/pdf/1805.00794.pdf
 
     <em>Mohammad Kachuee, Shayan Fazeli, and Majid Sarrafzadeh. \
