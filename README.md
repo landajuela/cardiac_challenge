@@ -11,7 +11,16 @@ This repository contains the code for the [Data Science Challenge 2023](https://
 It contains tutorials on machine learning, as well as notebooks to get you started with the challenge. These notebooks are meant to be a starting point for the challenge, and you are encouraged to modify them as you see fit.
 In particular, you are encouraged to use any machine learning framework of your choice (e.g. PyTorch, TensorFlow, JAX, etc.) and any machine learning model of your choice (e.g. neural networks, random forests, etc.).
 The repository also provides a set of helper functions to load the data from [Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals](https://library.ucsd.edu/dc/object/bb29449106).
-A useful resource for getting started with the challenge is the [Medium Blog post](https://medium.com/p/a20661669937) by Mikel Landajuela.
+A useful resource for getting started with the challenge is the [Medium Blog post](https://medium.com/p/a20661669937) by Mikel Landajuela. Code implementation is based on the code repository [cardiac_ml](https://github.com/landajuela/cardiac_ml).
+
+
+Resources
+----------------
+
+- Dataset: [Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals](https://library.ucsd.edu/dc/object/bb29449106)
+- Medium Blog post : [Medium Blog post](https://medium.com/p/a20661669937)
+- Code Repository : [cardiac_ml](https://github.com/landajuela/cardiac_ml)
+- Paper : [Intracardiac Electrical Imaging Using the 12-Lead ECG: A Machine Learning Approach Using Synthetic Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10081783)
 
 ## Description
 The electrocardiogram (ECG) provides a non-invasive and cost-effective tool for the diagnosis of heart conditions. However, the standard 12-lead ECG is inadequate for mapping out the electrical activity of the heart in sufficient detail for many clinical applications (e.g., identifying the origins of an arrhythmia). In order to construct a more detailed map of the heart, current techniques require not only ECG readings from dozens of locations on a patient’s body, but also patient-specific anatomical models built from expensive medical imaging procedures. For this Data Science Challenge problem, we consider an alternative data-driven approach to reconstructing electroanatomical maps of the heart at clinically relevant resolutions, which combines input from the standard 12-lead electrocardiogram (ECG) with advanced machine learning techniques. We begin with the clearly-defined task of identifying heart conditions from ECG profiles and then consider a range of more open-ended challenges, including the reconstruction of a complete spatio-temporal activation map of the human heart.
@@ -58,7 +67,8 @@ Sequence-to-sequence prediction using the [Dataset of Simulated Intracardiac Tra
 Start by reading the [task_4_getting_started.ipynb](./notebooks/task_4_getting_started.ipynb) notebook.
 
 
-# Additional Information
+Additional Information
+----------------
 
 ### Working with the ECG Heartbeat Categorization Dataset
 
