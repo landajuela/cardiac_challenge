@@ -4,6 +4,9 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
 
 
+<mark>If you find this repository useful, we ask that you cite our works in section [Citations](#citations)</mark>
+
+
 This repository contains the code for the [Data Science Challenge 2023](https://data-science.llnl.gov/dsc) problem on machine learning for cardiac electrophysiology.
 It contains tutorials on machine learning, as well as notebooks to get you started with the challenge. These notebooks are meant to be a starting point for the challenge, and you are encouraged to modify them as you see fit.
 In particular, you are encouraged to use any machine learning framework of your choice (e.g. PyTorch, TensorFlow, JAX, etc.) and any machine learning model of your choice (e.g. neural networks, random forests, etc.).
@@ -140,7 +143,25 @@ One way to interpolate the predicted values at the recording locations to the wh
 
 - (Task 3 & 4) Medium Blog post : https://medium.com/p/a20661669937
 
-
+Citations
+----------------
+If you find this repository useful, we ask that you cite our works:
+```
+@INPROCEEDINGS{10081783,
+  author={Landajuela, Mikel and Anirudh, Rushil and Loscazo, Joe and Blake, Robert},
+  booktitle={2022 Computing in Cardiology (CinC)}, 
+  title={Intracardiac Electrical Imaging Using the 12-Lead ECG: A Machine Learning Approach Using Synthetic Data}, 
+  year={2022},
+  volume={498},
+  number={},
+  pages={1-4},
+  keywords={Torso;Measurement;Machine learning algorithms;Imaging;Voltage;Machine learning;Electrocardiography},
+  doi={10.22489/CinC.2022.026}}
+```
+and
+```
+Landajuela, Mikel; Anirudh, Rushil; Blake, Robert (2022).Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals. In Lawrence Livermore National Laboratory (LLNL) Open Data Initiative. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0SN094N
+```
 
 License
 ----------------
