@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.8-blue.svg)
 
 
-<mark>If you find this repository useful, we ask that you cite our works in section [Citations](#citations)</mark>
+**If you find this repository useful, we ask that you cite our works in section [Citations](#citations)**
 
 
 This repository contains the code for the [Data Science Challenge 2023](https://data-science.llnl.gov/dsc) problem on machine learning for cardiac electrophysiology.
