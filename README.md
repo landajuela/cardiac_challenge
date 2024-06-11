@@ -180,7 +180,7 @@ https://doi.org/10.6075/J0SN094N
 License
 ----------------
 
-Data Science Challenge 2023 is distributed under the terms of the MIT license. All new
+Data Science Challenge is distributed under the terms of the MIT license. All new
 contributions must be made under this license.
 
 See [LICENSE](./LICENSE),
