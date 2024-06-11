@@ -7,7 +7,7 @@
 **If you find this repository useful, we ask that you cite our works in section [Citations](#citations).
 Also, don't forget to ⭐ this repository if you find it useful!**
 
-This repository contains the code for the [Data Science Challenge 2023](https://data-science.llnl.gov/dsc) problem on machine learning for cardiac electrophysiology.
+This repository contains the code for the [Data Science Challenge](https://data-science.llnl.gov/dsc) problem on machine learning for cardiac electrophysiology.
 It contains tutorials on machine learning, as well as notebooks to get you started with the challenge. These notebooks are meant to be a starting point for the challenge, and you are encouraged to modify them as you see fit.
 In particular, you are encouraged to use any machine learning framework of your choice (e.g. PyTorch, TensorFlow, JAX, etc.) and any machine learning model of your choice (e.g. neural networks, random forests, etc.).
 The repository also provides a set of helper functions to load the data from [Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals](https://library.ucsd.edu/dc/object/bb29449106).
