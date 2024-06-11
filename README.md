@@ -170,7 +170,11 @@ If you find this repository useful, we ask that you cite our works:
 ```
 and
 ```
-Landajuela, Mikel; Anirudh, Rushil; Blake, Robert (2022).Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals. In Lawrence Livermore National Laboratory (LLNL) Open Data Initiative. UC San Diego Library Digital Collections. https://doi.org/10.6075/J0SN094N
+Landajuela, Mikel; Anirudh, Rushil; Blake, Robert (2022).
+Dataset of Simulated Intracardiac Transmembrane Voltage Recordings and ECG Signals. 
+In Lawrence Livermore National Laboratory (LLNL) Open Data Initiative. 
+UC San Diego Library Digital Collections. 
+https://doi.org/10.6075/J0SN094N
 ```
 
 License
