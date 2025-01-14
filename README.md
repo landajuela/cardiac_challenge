@@ -7,6 +7,10 @@
 **If you find this repository useful, we ask that you cite our works in section [Citations](#citations).
 Also, don't forget to ⭐ this repository if you find it useful!**
 
+<p align="center">
+    <img src="figures/rotating_hearts.gif" width=800/>
+</p>
+
 This repository contains the code for the [Data Science Challenge](https://data-science.llnl.gov/dsc) problem on machine learning for cardiac electrophysiology.
 It contains tutorials on machine learning, as well as notebooks to get you started with the challenge. These notebooks are meant to be a starting point for the challenge, and you are encouraged to modify them as you see fit.
 In particular, you are encouraged to use any machine learning framework of your choice (e.g. PyTorch, TensorFlow, JAX, etc.) and any machine learning model of your choice (e.g. neural networks, random forests, etc.).
@@ -24,10 +28,6 @@ Resources
 
 ## Description
 The electrocardiogram (ECG) provides a non-invasive and cost-effective tool for the diagnosis of heart conditions. However, the standard 12-lead ECG is inadequate for mapping out the electrical activity of the heart in sufficient detail for many clinical applications (e.g., identifying the origins of an arrhythmia). In order to construct a more detailed map of the heart, current techniques require not only ECG readings from dozens of locations on a patient’s body, but also patient-specific anatomical models built from expensive medical imaging procedures. For this Data Science Challenge problem, we consider an alternative data-driven approach to reconstructing electroanatomical maps of the heart at clinically relevant resolutions, which combines input from the standard 12-lead electrocardiogram (ECG) with advanced machine learning techniques. We begin with the clearly-defined task of identifying heart conditions from ECG profiles and then consider a range of more open-ended challenges, including the reconstruction of a complete spatio-temporal activation map of the human heart.
-
-<p align="center">
-    <img src="figures/rotating_hearts.gif" width=800/>
-</p>
 
 ## Contents
 - [tutorials](./tutorials/)
