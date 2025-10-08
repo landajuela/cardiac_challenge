@@ -90,7 +90,7 @@ Additional Information
     - You will need to download all the components of the dataset one by one
 2. Unzip the dataset
 
-**Note** : For convenience, we have included a bash script to perform the above steps. To use the script, run the following command from the root of the repository:
+**Note** : For convenience, we have included a bash script to perform the above steps. The dataset is approximately (5.2G) in size, and the download may take a while depending on your internet connection. To use the script, run the following command from the root of the repository:
 ```bash 
 source download_intracardiac_dataset.sh
 ```
